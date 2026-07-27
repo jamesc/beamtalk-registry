@@ -39,3 +39,8 @@ yaml = "0.1.0"
 Or let the CLI pin the latest published release for you:
 
     beamtalk deps add yaml
+
+## License
+
+Apache-2.0 — see [LICENSE](LICENSE). The index entries here are metadata only;
+each package is licensed by its own repository.
