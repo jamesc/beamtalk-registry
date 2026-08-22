@@ -5,3 +5,8 @@ description = "YAML parsing and generation for Beamtalk"
 version = "0.1.0"
 git = "https://github.com/jamesc/beamtalk-yaml"
 tag = "v0.1.0"
+
+[[versions]]
+version = "0.1.1"
+git = "https://github.com/jamesc/beamtalk-yaml.git"
+tag = "v0.1.1"
