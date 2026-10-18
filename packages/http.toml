@@ -50,3 +50,8 @@ tag = "v0.1.8"
 version = "0.1.9"
 git = "https://github.com/jamesc/beamtalk-http.git"
 tag = "v0.1.9"
+
+[[versions]]
+version = "0.1.10"
+git = "https://github.com/jamesc/beamtalk-http.git"
+tag = "v0.1.10"
