@@ -1,0 +1,7 @@
+name = "catalina"
+description = "Pure-Beamtalk socket server, a port of Thousand Island"
+
+[[versions]]
+version = "0.1.0"
+git = "https://github.com/jamesc/beamtalk-catalina.git"
+tag = "v0.1.0"
