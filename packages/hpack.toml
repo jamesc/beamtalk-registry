@@ -1,0 +1,7 @@
+name = "hpack"
+description = "HPACK header compression for HTTP/2, a pure-Beamtalk port of hpax"
+
+[[versions]]
+version = "0.1.0"
+git = "https://github.com/jamesc/beamtalk-hpack.git"
+tag = "v0.1.0"
