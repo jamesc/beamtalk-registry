@@ -1,0 +1,7 @@
+name = "buccaneer"
+description = "Pure-Beamtalk HTTP server built on Catalina, a port of Bandit"
+
+[[versions]]
+version = "0.1.1"
+git = "https://github.com/jamesc/beamtalk-buccaneer.git"
+tag = "v0.1.1"
