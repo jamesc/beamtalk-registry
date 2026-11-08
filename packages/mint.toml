@@ -5,3 +5,8 @@ description = "Pure-Beamtalk HTTP client (Mint port): processless HTTP/1 and HTT
 version = "0.1.0"
 git = "https://github.com/jamesc/beamtalk-mint.git"
 tag = "v0.1.0"
+
+[[versions]]
+version = "0.2.0"
+git = "https://github.com/jamesc/beamtalk-mint.git"
+tag = "v0.2.0"
