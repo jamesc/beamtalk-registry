@@ -1,0 +1,7 @@
+name = "announcements"
+description = "Optional extras for Beamtalk announcements: RecordingAnnouncer and a telemetry bridge"
+
+[[versions]]
+version = "0.1.0"
+git = "https://github.com/jamesc/beamtalk-announcements.git"
+tag = "v0.1.0"
