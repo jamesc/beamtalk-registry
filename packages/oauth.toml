@@ -4,3 +4,8 @@ name = "oauth"
 version = "0.1.0"
 git = "https://github.com/jamesc/beamtalk-oauth.git"
 tag = "v0.1.0"
+
+[[versions]]
+version = "0.2.0"
+git = "https://github.com/jamesc/beamtalk-oauth.git"
+tag = "v0.2.0"
